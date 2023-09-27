@@ -2,8 +2,7 @@
 
 Willkommen bei Foodwagon, deiner kostenlosen App, um Streetfood-Liebhabern dabei zu helfen, alle aktiven Foodtrucks in ihrer Nähe zu entdecken. Mit unserer interaktiven Karte und funktionalen Listenansicht kannst du spielend einfach deinen Lieblings-Foodtruck in deiner Nähe finden, das Menü durchstöbern und die Kontaktdaten anzeigen. Plane deinen kulinarischen Ausflug und genieße sofort!
 
-![Food Wagon-1](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/bae99721-24d8-4556-84b0-f0a803790fd7 =1080x1080)
-<img src="https://github.com/YafesMakesApps/Foodwagon/assets/146208688/bae99721-24d8-4556-84b0-f0a803790fd7" data-canonical-src="https://github.com/YafesMakesApps/Foodwagon/assets/146208688/bae99721-24d8-4556-84b0-f0a803790fd7" width="1080" height="1080" />
+![Food Wagon-3](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/b4086117-7958-484a-bc4c-6a3d43122a3c)
 
 ## Über Foodwagon
 
