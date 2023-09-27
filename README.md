@@ -10,11 +10,12 @@ Foodwagon ist die ultimative App für Streetfood-Enthusiasten. Unsere Plattform 
 
 - **Foodtrucks in Echtzeit zu entdecken**: Unsere interaktive Karte zeigt dir sofort alle aktiven Foodtrucks in deiner Nähe. Kein Rätselraten mehr!
 
-- **Funktionalität der Listenansicht**: Sieh dir eine übersichtliche Liste von Foodtrucks an und wähle deinen Favoriten.
+- **Funktionalität der Listenansicht**: Sieh dir eine übersichtliche Liste von Foodtrucks an und wähle deinen Favoriten sortiert nach der Entfernung zur deiner Position.
 
-- **Einfacher Zugriff auf Menüs und Kontaktdaten**: Finde heraus, was auf der Speisekarte steht, und kontaktiere den Foodtruck direkt.
+- **Einfacher Zugriff auf Menüs und Kontaktdaten**: Finde heraus, was heute auf der Speisekarte steht und noch verfügbar ist, und kontaktiere den Foodtruck direkt.
 
 - **Kulinarische Abenteuer planen**: Organisiere deinen kulinarischen Ausflug und finde neue Lieblingsgerichte.
+
 
 ## Technologie-Stack
 
@@ -22,7 +23,7 @@ Foodwagon ist die ultimative App für Streetfood-Enthusiasten. Unsere Plattform 
 
 - Unsere mobilen Apps für die Betriebssysteme iOS und Android sind nativ entwickelt, um ein nahtloses und performantes Nutzererlebnis zu gewährleisten.
 
-- *ine individuell entwickelte API, von uns erstellt, sorgt für effiziente Datenabfragen in der App, um sicherzustellen, dass die Informationen stets aktuell und maßgeschneidert sind.
+- Eine individuell entwickelte API, von uns erstellt, sorgt für effiziente Datenabfragen in der App, um sicherzustellen, dass die Informationen stets aktuell und maßgeschneidert sind.
 
 
 ## Die App
@@ -31,6 +32,7 @@ Möchtest du Foodwagon selbst ausprobieren? Hier ist, wie du starten kannst:
 
 - **Play-Store: https://play.google.com/store/apps/details?id=y.a.foodwagon
 - **App Store: Release im Oktober 2023
+
 
 ## Screenshots
 
