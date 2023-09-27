@@ -18,11 +18,11 @@ Foodwagon ist die ultimative App für Streetfood-Enthusiasten. Unsere Plattform 
 
 ## Technologie-Stack
 
-- **Foodwagon nutzt eine echtzeitaktualisierte Datenbank, die von den Foodtruck-Anbietern verwaltet wird und Informationen zu allen aktuellen und aktiven Foodtrucks deutschlandweit bereitstellt.
+- Foodwagon nutzt eine echtzeitaktualisierte Datenbank, die von den Foodtruck-Anbietern verwaltet wird und Informationen zu allen aktuellen und aktiven Foodtrucks deutschlandweit bereitstellt.
 
-- **Unsere mobilen Apps für die Betriebssysteme iOS und Android sind nativ entwickelt, um ein nahtloses und performantes Nutzererlebnis zu gewährleisten.
+- Unsere mobilen Apps für die Betriebssysteme iOS und Android sind nativ entwickelt, um ein nahtloses und performantes Nutzererlebnis zu gewährleisten.
 
-- **Eine individuell entwickelte API, von uns erstellt, sorgt für effiziente Datenabfragen in der App, um sicherzustellen, dass die Informationen stets aktuell und maßgeschneidert sind.
+- *ine individuell entwickelte API, von uns erstellt, sorgt für effiziente Datenabfragen in der App, um sicherzustellen, dass die Informationen stets aktuell und maßgeschneidert sind.
 
 
 ## Die App
