@@ -32,4 +32,10 @@ Möchtest du Foodwagon selbst ausprobieren? Hier ist, wie du starten kannst:
 - **Play-Store: https://play.google.com/store/apps/details?id=y.a.foodwagon
 - **App Store: Release im Oktober 2023
 
+## Screenshots
 
+
+![1](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/15c568ec-5397-41cb-a4ec-e4baa34ada7b)
+
+![2](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/ff5821f7-b075-463d-b497-b618d6bd5078)
+![3](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/e2d06e20-d119-4882-af71-9c1c543d2776)
