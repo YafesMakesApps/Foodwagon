@@ -34,8 +34,7 @@ Möchtest du Foodwagon selbst ausprobieren? Hier ist, wie du starten kannst:
 
 ## Screenshots
 
+![1](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/4eacc53f-c59b-43f2-b793-c4e587c6626b)
+![2](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/4bb6e78d-6c09-478b-9b76-3029f3ebb8e0)
+![3](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/338df62a-dd79-46a2-bdfc-e799402c920b)
 
-![1](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/15c568ec-5397-41cb-a4ec-e4baa34ada7b)
-
-![2](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/ff5821f7-b075-463d-b497-b618d6bd5078)
-![3](https://github.com/YafesMakesApps/Foodwagon/assets/146208688/e2d06e20-d119-4882-af71-9c1c543d2776)
